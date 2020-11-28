@@ -48,6 +48,12 @@ span{
     
 }
 
+.btn{
+cursor: pointer;
+
+}
+
+
 .para{
     display: none;
 }
